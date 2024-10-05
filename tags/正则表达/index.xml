@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>正则表达 - 标签 - My New Hugo Site</title>
-    <link>https://example.org/tags/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE/</link>
+    <title>正则表达 - 标签 - Welcome to my blog</title>
+    <link>http://localhost:1313/tags/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE/</link>
     <description>Welcome to my blog</description>
     <generator>Hugo 0.135.0 &amp; FixIt v0.3.13-9c440df3</generator>
     <language>en-us</language>
     <managingEditor>849694905@qq.com (LJL)</managingEditor>
     <webMaster>849694905@qq.com (LJL)</webMaster>
     <lastBuildDate>Sat, 05 Oct 2024 17:10:56 +0800</lastBuildDate>
-    <atom:link href="https://example.org/tags/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>正则表达</title>
-      <link>https://example.org/posts/338f9b9/</link>
+      <link>http://localhost:1313/posts/338f9b9/</link>
       <pubDate>Sat, 05 Oct 2024 17:10:56 +0800</pubDate><author>849694905@qq.com (LJL)</author>
-      <guid>https://example.org/posts/338f9b9/</guid>
-      <category domain="https://example.org/categories/%E5%9F%BA%E7%A1%80/">基础</category>
+      <guid>http://localhost:1313/posts/338f9b9/</guid>
+      <category domain="http://localhost:1313/categories/%E5%9F%BA%E7%A1%80/">基础</category>
       <description>&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;正则表达符号&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;含义&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;^&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;匹配一个字符串的开始&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;$&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;匹配一个字符串的结尾&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;.&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;匹配除了换行符以外的任一字符&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;*&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;匹配所有含有*后的字符&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;?&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;匹配所有含有?后的字符&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;+&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;匹配所有含有+后的字符&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;.*&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;可以匹配任意字符&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;|&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;表示逻辑的或&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;[^]&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;表示逻辑的补集&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;[]&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;匹配多个字符，如果不使用任何分隔符号，则搜寻这个集合&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;[-]&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;匹配一个范围&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
     </item>
   </channel>
