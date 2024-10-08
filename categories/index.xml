@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories - 分类 - Welcome to my blog</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://example.org/categories/</link>
     <description>Welcome to my blog</description>
     <generator>Hugo 0.135.0 &amp; FixIt v0.3.13-9c440df3</generator>
     <language>en-us</language>
     <managingEditor>849694905@qq.com (LJL)</managingEditor>
     <webMaster>849694905@qq.com (LJL)</webMaster>
     <lastBuildDate>Sat, 05 Oct 2024 17:10:56 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>基础</title>
-      <link>http://localhost:1313/categories/%E5%9F%BA%E7%A1%80/</link>
+      <link>https://example.org/categories/%E5%9F%BA%E7%A1%80/</link>
       <pubDate>Sat, 05 Oct 2024 17:10:56 +0800</pubDate><author>849694905@qq.com (LJL)</author>
-      <guid>http://localhost:1313/categories/%E5%9F%BA%E7%A1%80/</guid>
+      <guid>https://example.org/categories/%E5%9F%BA%E7%A1%80/</guid>
       <description>基础</description>
     </item>
     <item>
       <title>生信</title>
-      <link>http://localhost:1313/categories/%E7%94%9F%E4%BF%A1/</link>
+      <link>https://example.org/categories/%E7%94%9F%E4%BF%A1/</link>
       <pubDate>Tue, 02 Jul 2024 20:45:39 +0800</pubDate><author>849694905@qq.com (LJL)</author>
-      <guid>http://localhost:1313/categories/%E7%94%9F%E4%BF%A1/</guid>
+      <guid>https://example.org/categories/%E7%94%9F%E4%BF%A1/</guid>
       <description>生信</description>
     </item>
   </channel>
