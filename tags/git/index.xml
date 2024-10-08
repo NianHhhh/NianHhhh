@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Git - 标签 - Welcome to my blog</title>
-    <link>http://localhost:1313/tags/git/</link>
+    <link>https://example.org/tags/git/</link>
     <description>Welcome to my blog</description>
     <generator>Hugo 0.135.0 &amp; FixIt v0.3.13-9c440df3</generator>
     <language>en-us</language>
     <managingEditor>849694905@qq.com (LJL)</managingEditor>
     <webMaster>849694905@qq.com (LJL)</webMaster>
     <lastBuildDate>Tue, 02 Jul 2024 10:59:33 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/tags/git/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Git文件上传</title>
-      <link>http://localhost:1313/posts/b3906ec/</link>
+      <link>https://example.org/posts/b3906ec/</link>
       <pubDate>Tue, 02 Jul 2024 10:59:33 +0800</pubDate><author>849694905@qq.com (LJL)</author>
-      <guid>http://localhost:1313/posts/b3906ec/</guid>
-      <category domain="http://localhost:1313/categories/git/">Git</category>
+      <guid>https://example.org/posts/b3906ec/</guid>
+      <category domain="https://example.org/categories/%E5%9F%BA%E7%A1%80/">基础</category>
       <description>&lt;p&gt;1.输入 git init ，初始化，在本地创建一个Git仓库1  输入 git init ，初始化，在本地创建一个Git仓&lt;br&gt;&#xA;2.输入 git add . 将项目添加到暂存区&lt;br&gt;&#xA;3.输入 git commit -m &amp;ldquo;注释内容&amp;rdquo; 将项目提交到Git仓库&lt;br&gt;&#xA;4.输入 git branch -M main ，上传到 main 分支&lt;br&gt;&#xA;5.输入 git remote add origin &lt;a href=&#34;https://github.com/xxxxx/test.git&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;https://github.com/xxxxx/test.git&lt;/a&gt;，和远程仓库连接&lt;br&gt;&#xA;6.输入 git push -u origin main 将本地项目推送到远程仓库&lt;/p&gt;</description>
     </item>
   </channel>
