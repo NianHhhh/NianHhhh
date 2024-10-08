@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags - 标签 - Welcome to my blog</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost:1420/tags/</link>
     <description>Welcome to my blog</description>
     <generator>Hugo 0.135.0 &amp; FixIt v0.3.13-9c440df3</generator>
     <language>en-us</language>
     <managingEditor>849694905@qq.com (LJL)</managingEditor>
     <webMaster>849694905@qq.com (LJL)</webMaster>
     <lastBuildDate>Sat, 05 Oct 2024 17:10:56 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1420/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>正则表达</title>
-      <link>http://localhost:1313/tags/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE/</link>
+      <link>http://localhost:1420/tags/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE/</link>
       <pubDate>Sat, 05 Oct 2024 17:10:56 +0800</pubDate><author>849694905@qq.com (LJL)</author>
-      <guid>http://localhost:1313/tags/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE/</guid>
+      <guid>http://localhost:1420/tags/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE/</guid>
       <description>正则表达</description>
     </item>
     <item>
       <title>富集分析</title>
-      <link>http://localhost:1313/tags/%E5%AF%8C%E9%9B%86%E5%88%86%E6%9E%90/</link>
+      <link>http://localhost:1420/tags/%E5%AF%8C%E9%9B%86%E5%88%86%E6%9E%90/</link>
       <pubDate>Tue, 02 Jul 2024 20:45:39 +0800</pubDate><author>849694905@qq.com (LJL)</author>
-      <guid>http://localhost:1313/tags/%E5%AF%8C%E9%9B%86%E5%88%86%E6%9E%90/</guid>
+      <guid>http://localhost:1420/tags/%E5%AF%8C%E9%9B%86%E5%88%86%E6%9E%90/</guid>
       <description>富集分析</description>
     </item>
     <item>
       <title>Git</title>
-      <link>http://localhost:1313/tags/git/</link>
+      <link>http://localhost:1420/tags/git/</link>
       <pubDate>Tue, 02 Jul 2024 10:59:33 +0800</pubDate><author>849694905@qq.com (LJL)</author>
-      <guid>http://localhost:1313/tags/git/</guid>
+      <guid>http://localhost:1420/tags/git/</guid>
       <description>Git</description>
     </item>
   </channel>
