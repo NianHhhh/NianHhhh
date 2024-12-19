@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Git - 标签 - Welcome to my blog</title>
-    <link>https://example.org/tags/git/</link>
+    <link>http://localhost:1313/tags/git/</link>
     <description>Welcome to my blog</description>
     <generator>Hugo 0.135.0 &amp; FixIt v0.3.13-9c440df3</generator>
     <language>en-us</language>
     <managingEditor>849694905@qq.com (LJL)</managingEditor>
     <webMaster>849694905@qq.com (LJL)</webMaster>
     <lastBuildDate>Tue, 02 Jul 2024 10:59:33 +0800</lastBuildDate>
-    <atom:link href="https://example.org/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/git/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Git文件上传</title>
-      <link>https://example.org/posts/b3906ec/</link>
+      <link>http://localhost:1313/posts/b3906ec/</link>
       <pubDate>Tue, 02 Jul 2024 10:59:33 +0800</pubDate><author>849694905@qq.com (LJL)</author>
-      <guid>https://example.org/posts/b3906ec/</guid>
-      <category domain="https://example.org/categories/%E5%9F%BA%E7%A1%80/">基础</category>
+      <guid>http://localhost:1313/posts/b3906ec/</guid>
+      <category domain="http://localhost:1313/categories/%E5%9F%BA%E7%A1%80/">基础</category>
       <description>&lt;p&gt;1.输入 &lt;code&gt;git init&lt;/code&gt; ，初始化，在本地创建一个Git仓库;&lt;br&gt;&#xA;2.输入 &lt;code&gt;git add&lt;/code&gt; . 将项目添加到暂存区;&lt;br&gt;&#xA;3.输入 &lt;code&gt;git commit -m &amp;quot;注释内容&amp;quot;&lt;/code&gt; 将项目提交到Git仓库;&lt;br&gt;&#xA;4.输入 &lt;code&gt;git branch -M main&lt;/code&gt; ，上传到 main 分支;&lt;br&gt;&#xA;5.输入 &lt;code&gt;git remote add origin https://github.com/xxxxx/test.git&lt;/code&gt;，和远程仓库连接;&lt;br&gt;&#xA;6.输入 &lt;code&gt;git push -u origin main&lt;/code&gt; 将本地项目推送到远程仓库.&lt;/p&gt;</description>
     </item>
   </channel>
