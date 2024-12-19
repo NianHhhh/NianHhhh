@@ -12,5 +12,5 @@
 ---
 
 > 作者: [LJL](https://nianhhhh.github.io/)  
-> URL: http://localhost:1313/posts/b3906ec/  
+> URL: https://example.org/posts/b3906ec/  
 

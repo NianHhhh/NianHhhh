@@ -32,5 +32,5 @@
 ---
 
 > 作者: [LJL](https://nianhhhh.github.io/)  
-> URL: http://localhost:1313/posts/338f9b9/  
+> URL: https://example.org/posts/338f9b9/  
 

@@ -2,16 +2,16 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml"
   ><url>
-      <loc>http://localhost:1313/categories/</loc><lastmod>2024-10-05T17:10:56&#43;08:00</lastmod></url><url>
-      <loc>http://localhost:1313/posts/</loc><lastmod>2024-10-05T17:10:56&#43;08:00</lastmod></url><url>
-      <loc>http://localhost:1313/tags/</loc><lastmod>2024-10-05T17:10:56&#43;08:00</lastmod></url><url>
-      <loc>http://localhost:1313/</loc><lastmod>2024-10-05T17:10:56&#43;08:00</lastmod></url><url>
-      <loc>http://localhost:1313/categories/%E5%9F%BA%E7%A1%80/</loc><lastmod>2024-10-05T17:10:56&#43;08:00</lastmod></url><url>
-      <loc>http://localhost:1313/tags/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE/</loc><lastmod>2024-10-05T17:10:56&#43;08:00</lastmod></url><url>
-      <loc>http://localhost:1313/posts/338f9b9/</loc><lastmod>2024-10-05T17:10:56&#43;08:00</lastmod></url><url>
-      <loc>http://localhost:1313/tags/%E5%AF%8C%E9%9B%86%E5%88%86%E6%9E%90/</loc><lastmod>2024-07-02T20:45:39&#43;08:00</lastmod></url><url>
-      <loc>http://localhost:1313/posts/a91e8d5/</loc><lastmod>2024-07-02T20:45:39&#43;08:00</lastmod></url><url>
-      <loc>http://localhost:1313/categories/%E7%94%9F%E4%BF%A1/</loc><lastmod>2024-07-02T20:45:39&#43;08:00</lastmod></url><url>
-      <loc>http://localhost:1313/tags/git/</loc><lastmod>2024-07-02T10:59:33&#43;08:00</lastmod></url><url>
-      <loc>http://localhost:1313/posts/b3906ec/</loc><lastmod>2024-07-02T10:59:33&#43;08:00</lastmod></url><url>
-      <loc>http://localhost:1313/collections/</loc></url></urlset>
+      <loc>https://example.org/categories/</loc><lastmod>2024-10-05T17:10:56&#43;08:00</lastmod></url><url>
+      <loc>https://example.org/posts/</loc><lastmod>2024-10-05T17:10:56&#43;08:00</lastmod></url><url>
+      <loc>https://example.org/tags/</loc><lastmod>2024-10-05T17:10:56&#43;08:00</lastmod></url><url>
+      <loc>https://example.org/</loc><lastmod>2024-10-05T17:10:56&#43;08:00</lastmod></url><url>
+      <loc>https://example.org/categories/%E5%9F%BA%E7%A1%80/</loc><lastmod>2024-10-05T17:10:56&#43;08:00</lastmod></url><url>
+      <loc>https://example.org/tags/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE/</loc><lastmod>2024-10-05T17:10:56&#43;08:00</lastmod></url><url>
+      <loc>https://example.org/posts/338f9b9/</loc><lastmod>2024-10-05T17:10:56&#43;08:00</lastmod></url><url>
+      <loc>https://example.org/tags/%E5%AF%8C%E9%9B%86%E5%88%86%E6%9E%90/</loc><lastmod>2024-07-02T20:45:39&#43;08:00</lastmod></url><url>
+      <loc>https://example.org/posts/a91e8d5/</loc><lastmod>2024-07-02T20:45:39&#43;08:00</lastmod></url><url>
+      <loc>https://example.org/categories/%E7%94%9F%E4%BF%A1/</loc><lastmod>2024-07-02T20:45:39&#43;08:00</lastmod></url><url>
+      <loc>https://example.org/tags/git/</loc><lastmod>2024-07-02T10:59:33&#43;08:00</lastmod></url><url>
+      <loc>https://example.org/posts/b3906ec/</loc><lastmod>2024-07-02T10:59:33&#43;08:00</lastmod></url><url>
+      <loc>https://example.org/collections/</loc></url></urlset>

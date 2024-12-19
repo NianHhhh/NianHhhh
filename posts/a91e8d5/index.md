@@ -9,5 +9,5 @@
 ---
 
 > 作者: [LJL](https://nianhhhh.github.io/)  
-> URL: http://localhost:1313/posts/a91e8d5/  
+> URL: https://example.org/posts/a91e8d5/  
 
